@@ -1,0 +1,13 @@
+{
+  "name": "P1 - Taxare masini",
+  "image": "mcr.microsoft.com/devcontainers/cpp:1",
+  "workspaceFolder": "/workspaces/SDA-course/P1_taxare_masini",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.cpptools",
+        "ms-vsliveshare.vsliveshare"
+      ]
+    }
+  }
+}
