@@ -2,5 +2,6 @@
 
 int main() {
     printf("Hello from Codespaces!\n");
+    printf("Hello from Codespaces!\n");
     return 0;
 }
