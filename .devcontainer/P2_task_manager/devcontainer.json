@@ -1,0 +1,13 @@
+{
+  "name": "P2 - Task manager",
+  "image": "mcr.microsoft.com/devcontainers/cpp:1",
+  "workspaceFolder": "/workspaces/SDA-course/P2_task_manager",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.cpptools",
+        "ms-vsliveshare.vsliveshare"
+      ]
+    }
+  }
+}
