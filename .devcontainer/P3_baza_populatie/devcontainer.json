@@ -1,0 +1,13 @@
+{
+  "name": "P3 - Baza Populatie",
+  "image": "mcr.microsoft.com/devcontainers/cpp:1",
+  "workspaceFolder": "/workspaces/SDA-course/P2_baza_populatie",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.cpptools",
+        "ms-vsliveshare.vsliveshare"
+      ]
+    }
+  }
+}
