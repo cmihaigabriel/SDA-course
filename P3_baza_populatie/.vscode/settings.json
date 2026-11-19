@@ -1,0 +1,15 @@
+{
+  // IntelliSense: suggestion popup
+  "editor.quickSuggestions": { "other": "off", "comments": "off", "strings": "off" },
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.wordBasedSuggestions": "off",
+  "editor.snippetSuggestions": "none",
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.parameterHints.enabled": false,
+  "C_Cpp.autocomplete": "disabled",
+
+  // Copilot: grey inline completions + AI features
+  "editor.inlineSuggest.enabled": false,
+  "github.copilot.enable": { "*": false },
+  "chat.disableAIFeatures": true
+}
